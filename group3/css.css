@@ -1,0 +1,101 @@
+.head1{
+    background-color:#025E98;
+    height:40px;
+    color:white;
+    width:1300px;
+ }
+ .googlemap{
+    
+    position:relative;
+    left:100px;
+    top:10px;
+    text-decoration:none;
+    color:white;
+
+ }
+ .career{
+    
+    width:70px;
+    position:relative;
+    left:270px;
+    top:-25px;
+ }
+ .contactus{
+    
+    width:100px;
+    position:relative;
+    left:390px;
+    top:-60px;
+ }
+ .fblogo{
+    
+    width:18px;
+    position:relative;
+    left:1100px;
+    top:-92px;
+ }
+ .twitterlogo{
+    
+    width:18px;
+    position:relative;
+    left:1114px;
+    top:-92px;
+ }
+ .ytlogo{
+    
+    width:18px;
+    position:relative;
+    left:1125px;
+    top:-92px;
+ }
+ .map{
+    color:#73b6e4;
+ }
+li{
+    display:inline;
+}
+a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+}
+nav{
+    background-color:rgb(27, 16, 51);
+    padding:25px;
+    border-radius:20px;
+    position:sticky;
+    top:10px;
+    width:1270px;
+    
+}
+ul{
+    position:relative;
+    left:300px;
+}
+p{
+    padding:-40px;
+    width:50px;
+}
+.school{
+    position:relative;
+    font-family:Comic Sans MS;
+    font-size:25px;
+    color:white;
+    top:-120px;
+    left:30px;
+    width:300px;
+}
+a:hover{
+    color:rgb(9, 44, 216);
+}
+.hi{
+    font-size:20px;
+    color:black;
+}
+body{
+    background-color:#add8e6;
+}
+img{
+    border:10px solid white;
+    border-radius:20px;
+}
